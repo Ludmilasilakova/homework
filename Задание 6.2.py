@@ -1,0 +1,5 @@
+name = input("Введите имя:")
+surname = input("Введите фамилию:")
+patronymic = input("Введите отчество:")
+age = input("Введите год рождения:")
+print(f"{surname} {name} {patronymic} {age} г.р. зарегистрирован")
